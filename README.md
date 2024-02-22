@@ -1,5 +1,9 @@
 # agent-java-karate
 
+
+> **_NOTE:_** Use official [reportportal/agent-java-karate](https://github.com/reportportal/agent-java-karate)
+
+
 - [Description](#description)
 - [Agent Configuration](#agent-configuration)
 - [Properties File Configuration](#properties-file-configuration)
